@@ -4,6 +4,8 @@ using it for warping images back to first frame.
 
 It comes as command line tool for Python >= 3.6
 
+Please refer to: https://doi.org/10.1101/2022.02.16.480659
+
 ### What does it do?
 #### Original movie with non-linear, local drift in the tissue
 ![Original](example/res/a_orig.gif) 
